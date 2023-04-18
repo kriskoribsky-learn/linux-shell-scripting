@@ -4,7 +4,7 @@
 # You will be prompted for the account name and password.
 
 # Ask for the user name.
-read -p 'Enter the username to create: ' USER_NAME
+read -p 'Enter the username ato create: ' USER_NAME
 
 # Ask for the real name.
 read -p 'Enter the name of the person who this account is for: ' COMMENT
